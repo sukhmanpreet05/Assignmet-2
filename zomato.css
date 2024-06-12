@@ -1,0 +1,27 @@
+.bg{
+    width: 800px;
+    margin: 60px auto;
+    position: relative;
+}
+.bg-img{
+    width: 100%;
+    border-radius: 16px;
+}
+.content{
+    position: absolute;
+    bottom: 150px;
+    left: 40px;
+    color: white;
+}.title{
+    font-size: 60px;
+    color:floralwhite;
+    position:fixed;
+    top:200px;
+}
+.desc{
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}

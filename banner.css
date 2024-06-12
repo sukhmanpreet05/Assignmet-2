@@ -1,0 +1,71 @@
+body{
+    font-family: cursive
+}
+.card{
+   
+    width: 400px;
+    padding: 10px;
+    margin: 20px auto;
+    border: 2px solid yellowgreen;
+    border-radius: 15px;
+    background-color:lightgoldenrodyellow;
+}
+.card-img{
+    width: 101%;
+    border-radius: 15px;
+    padding:2px;
+}
+.banner{
+    width: 260px;
+    padding: 10px;
+    margin: 10px auto;
+    
+    background: whitesmoke;
+    border-radius: 14px;
+    color: black;
+    position: sticky;
+    top: 0;
+}
+.banner-title{
+    margin: 0;
+    font-size: 20px;
+    margin-bottom: 4px;
+    position:fixed;
+    top:0;
+    bottom:0;
+    position:absolute;
+    right:-60px;
+    top:-240px;
+    color: crimson;
+    
+    
+   margin-bottom:4px;
+
+}
+.card-heading{
+    font-family: serif;
+    color: blueviolet;
+    font-size: 18px;
+}
+.card-desc{
+    font-family: serif;
+    font-size: 20px;
+    color: chocolate;
+}
+.banner-desc{
+    margin: 4px;
+    font-size: 20px;
+    
+    position:fixed;
+    left:380px;
+    bottom:120px;
+}
+.banner-heading{
+    color:brown;
+    font-size: 18px;
+    background-color: aquamarine;
+    background-size: auto;
+    position: fixed;
+    top:70px;
+    right:550px;
+}
